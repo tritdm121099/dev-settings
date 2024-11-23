@@ -1,0 +1,35 @@
+{
+    "editor.fontFamily": "Hack Nerd Font",
+    "workbench.iconTheme": "vscode-icons",
+    "prisma.showPrismaDataPlatformNotification": false,
+    "workbench.colorTheme": "Dracula Theme",
+    "tailwind-fold.autoFold": false,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[svg]": {
+        "editor.defaultFormatter": "jock.svg"
+    },
+    "javascript.preferences.importModuleSpecifier": "relative",
+    "typescript.preferences.importModuleSpecifier": "non-relative",
+    "[yaml]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.tabSize": 2,
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "database-client.autoSync": true,
+    "workbench.editor.wrapTabs": true,
+    "workbench.editor.enablePreview": false,
+    "explorer.compactFolders": false,
+    "workbench.sideBar.location": "right",
+    "css.hover.references": false,
+    "json.schemas": [
+
+    ],
+    "workbench.panel.showLabels": false
+}
